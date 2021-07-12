@@ -243,7 +243,6 @@ nav ul li:hover {
   }
   .feature-img {
     height: 40%;
-    left: 25%;
   }
   .content {
     margin-top: 0;
@@ -264,7 +263,7 @@ nav ul li:hover {
     margin-top: 10px;
   }
   .navbar {
-    height: 200px;
+    height: 180px;
     justify-content: center;
   }
   nav {
@@ -286,7 +285,6 @@ nav ul li:hover {
 
   .logo {
     width: 100%;
-    padding: 5%;
   }
 }
 @media (max-width: 320px) and (orientation: portrait) {
